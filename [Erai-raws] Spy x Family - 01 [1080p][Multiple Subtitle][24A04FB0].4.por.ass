@@ -1,0 +1,519 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Narration,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: italicstop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: flashback italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Sign,Courier New,27,&H19FFFFFF,&H000000FF,&H7D000000,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,0030,0030,0020,1
+Style: Sign 1,Arial,15,&H00222B2B,&H000000FF,&H00F4FCF6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0030,0030,0020,1
+Style: Sign 2,Courier New,19,&H00F1FAF4,&H000000FF,&H7D000000,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,0423,0000,0075,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.28,0:00:05.48,main,Diplomat,0000,0000,0000,,Quanto tempo até a embaixada?
+Dialogue: 0,0:00:06.68,0:00:09.07,main,Driver,0000,0000,0000,,Creio que cerca de\N20 minutos, senhor.
+Dialogue: 0,0:00:09.63,0:00:10.47,main,Driver,0000,0000,0000,,Hã?
+Dialogue: 0,0:00:10.69,0:00:11.97,main,Driver,0000,0000,0000,,O freio não funciona...
+Dialogue: 0,0:00:11.97,0:00:15.16,main,Diplomat,0000,0000,0000,,Ei, olhe pra frente! Pra frente!
+Dialogue: 0,0:00:19.47,0:00:24.08,main,Member A,0000,0000,0000,,Um de nossos diplomatas faleceu\Nem Ostânia, num acidente de carro.
+Dialogue: 0,0:00:24.41,0:00:27.06,main,Member A,0000,0000,0000,,Acreditamos que foi um\Nassassinato encomendado
+Dialogue: 0,0:00:27.06,0:00:29.42,main,Member A,0000,0000,0000,,pelo partido de\N extrema direita do Leste.
+Dialogue: 0,0:00:29.75,0:00:34.38,main,Member A,0000,0000,0000,,Eles estão tramando uma guerra\Ncontra nossa nação, Westalis.
+Dialogue: 0,0:00:34.38,0:00:38.10,top,Member A,0000,0000,0000,,Temos que fazer todo o possível\Npara descobrir o plano deles.
+Dialogue: 0,0:00:38.10,0:00:39.38,top,Member B,0000,0000,0000,,{\i1}Ele{\i0} pode cuidar disso.
+Dialogue: 0,0:00:39.81,0:00:42.38,main,Member B,0000,0000,0000,,O nosso melhor agente.
+Dialogue: 0,0:00:42.65,0:00:43.65,main,Member B,0000,0000,0000,,Twilight.
+Dialogue: 0,0:00:45.39,0:00:46.89,main,Man in Coat,0000,0000,0000,,Aí está o que prometi.
+Dialogue: 0,0:00:47.25,0:00:50.00,main,Man in Coat,0000,0000,0000,,A prova de que o ministro das\Nrelações exteriores usa peruca.
+Dialogue: 0,0:00:50.00,0:00:51.10,main,Man in Coat,0000,0000,0000,,Tem até os negativos.
+Dialogue: 0,0:00:52.65,0:00:53.88,main,Fake Edgar,0000,0000,0000,,Muito bem.
+Dialogue: 0,0:00:54.28,0:00:56.45,main,Fake Edgar,0000,0000,0000,,Agora podemos forçá-lo a renunciar.
+Dialogue: 0,0:00:56.45,0:00:58.40,main,Fake Edgar,0000,0000,0000,,Espero que façamos\Nbons negócios no futuro.
+Dialogue: 0,0:01:00.77,0:01:01.69,main,Edgar,0000,0000,0000,,Ei!
+Dialogue: 0,0:01:02.92,0:01:06.03,main,Edgar,0000,0000,0000,,Que tal entregar as mercadorias agora?
+Dialogue: 0,0:01:06.03,0:01:08.51,main,Man in Coat,0000,0000,0000,,Hã? Mas você acabou de...
+Dialogue: 0,0:01:11.17,0:01:12.30,main,Man in Coat,0000,0000,0000,,Ele me pegou!
+Dialogue: 0,0:01:12.67,0:01:14.66,Narration,Narrator,0000,0000,0000,,Codinome: Twilight.
+Dialogue: 0,0:01:15.49,0:01:17.30,Narration,Narrator,0000,0000,0000,,Um espião.
+Dialogue: 0,0:01:20.26,0:01:22.32,Narration,Narrator,0000,0000,0000,,Numa época em que\Nas nações do mundo
+Dialogue: 0,0:01:22.32,0:01:25.11,Narration,Narrator,0000,0000,0000,,travavam uma guerra feroz de\Ninformações sigilosas,
+Dialogue: 0,0:01:25.11,0:01:27.58,Narration,Narrator,0000,0000,0000,,este homem sobreviveu\Nno campo de batalha
+Dialogue: 0,0:01:27.58,0:01:29.88,Narration,Narrator,0000,0000,0000,,por ser um mestre do disfarce.
+Dialogue: 0,0:01:32.06,0:01:36.94,main,Karen,0000,0000,0000,,O papai anda emburrado, porque\Nroubaram a peruca dele ou algo assim!
+Dialogue: 0,0:01:36.94,0:01:39.06,main,Karen,0000,0000,0000,,Mas que droga! Estou tão irritada.
+Dialogue: 0,0:01:39.25,0:01:41.23,main,Karen,0000,0000,0000,,Ei. Está ouvindo, Robert?
+Dialogue: 0,0:01:41.23,0:01:43.58,main,Twilight,0000,0000,0000,,Hum? Sim, é uma pena.
+Dialogue: 0,0:01:46.08,0:01:49.52,main,Karen,0000,0000,0000,,Robert, será que um dia\Nnós também vamos...
+Dialogue: 0,0:01:49.52,0:01:51.26,main,Twilight,0000,0000,0000,,Karen, acho melhor terminarmos.
+Dialogue: 0,0:01:51.26,0:01:51.93,main,Karen,0000,0000,0000,,O quê?
+Dialogue: 0,0:01:52.25,0:01:54.72,main,Twilight,0000,0000,0000,,Perdão, mas suas conversas\Nnão são muito inteligentes...
+Dialogue: 0,0:01:55.00,0:01:56.84,main,Twilight,0000,0000,0000,,Adeus. Espero que seja feliz.
+Dialogue: 0,0:01:56.84,0:02:00.14,main,Karen,0000,0000,0000,,Ei, Robert! Espere!\NVocê não pode fazer isso comigo!
+Dialogue: 0,0:02:00.14,0:02:01.61,main,Karen,0000,0000,0000,,Robert!
+Dialogue: 0,0:02:01.90,0:02:05.59,italics,Twilight,0000,0000,0000,,Desculpe, Karen, mas sua família\Nnão é mais útil para mim.
+Dialogue: 0,0:02:06.23,0:02:08.61,italics,Twilight,0000,0000,0000,,A partir de hoje, também acaba\No homem conhecido como Robert...
+Dialogue: 0,0:02:09.36,0:02:11.85,italics,Twilight,0000,0000,0000,,Casamento? Felicidade convencional?
+Dialogue: 0,0:02:11.85,0:02:16.71,italics,Twilight,0000,0000,0000,,Eu me livrei dessas ambições e de\Nminha identidade quando virei espião.
+Dialogue: 0,0:02:28.11,0:02:29.17,main,Contact,0000,0000,0000,,Miau.
+Dialogue: 0,0:02:29.17,0:02:30.66,italics,Twilight,0000,0000,0000,,Deve ser o código C.
+Dialogue: 0,0:02:31.16,0:02:34.51,italics,Train Announcer,0000,0000,0000,,O trem com destino a Berlint\Nestá partindo da plataforma 5.
+Dialogue: 0,0:02:37.05,0:02:40.51,italics,Chief,0000,0000,0000,,Bom dia, ou talvez seja\Nboa noite, Twilight...
+Dialogue: 0,0:02:40.91,0:02:42.91,italics,Chief,0000,0000,0000,,Bom trabalho na última missão.
+Dialogue: 0,0:02:43.25,0:02:47.52,italics,Chief,0000,0000,0000,,Graças a você, o ministro viveu mais\Num dia para o bem de nosso país.
+Dialogue: 0,0:02:48.01,0:02:50.67,italics,Chief,0000,0000,0000,,Agora estou com a sua próxima missão.
+Dialogue: 0,0:02:51.01,0:02:54.74,italics,Chief,0000,0000,0000,,O alvo é Donovan Desmond, líder\Ndo Partido da União Nacional.
+Dialogue: 0,0:02:55.13,0:02:58.02,italics,Chief,0000,0000,0000,,Ele é uma grande ameaça à\Ntrégua entre Leste e Oeste.
+Dialogue: 0,0:02:58.02,0:03:02.44,italics,Chief,0000,0000,0000,,Sua missão é se aproximar dele e sondar\Nquaisquer atividades subversivas.
+Dialogue: 0,0:03:02.44,0:03:03.65,italics,Chief,0000,0000,0000,,Para isso,
+Dialogue: 0,0:03:03.65,0:03:05.64,italics,Chief,0000,0000,0000,,você vai se casar e ter uma criança.
+Dialogue: 0,0:03:06.89,0:03:07.86,main,Twilight,0000,0000,0000,,Perdão?
+Dialogue: 0,0:03:07.86,0:03:11.63,italics,Chief,0000,0000,0000,,Desmond é um homem extremamente\Ncauteloso que raramente aparece em público.
+Dialogue: 0,0:03:12.20,0:03:14.43,italics,Chief,0000,0000,0000,,Apenas em reuniões\Nsociais realizadas
+Dialogue: 0,0:03:14.43,0:03:17.64,italics,Chief,0000,0000,0000,,na escola de elite\Nonde o filho estuda.
+Dialogue: 0,0:03:18.01,0:03:21.68,italics,Chief,0000,0000,0000,,São encontros informais para o\Nalto escalão industrial e político.
+Dialogue: 0,0:03:22.22,0:03:25.19,italics,Chief,0000,0000,0000,,Sua criança entrará nessa escola
+Dialogue: 0,0:03:25.19,0:03:27.01,italics,Chief,0000,0000,0000,,e se infiltrará nessas reuniões.
+Dialogue: 0,0:03:27.38,0:03:32.27,italics,Chief,0000,0000,0000,,O prazo de inscrição está quase acabando,\Nentão você tem uma semana para conseguir.
+Dialogue: 0,0:03:32.58,0:03:34.57,main,Twilight,0000,0000,0000,,Você quer que eu tenha\Num filho em sete dias?
+Dialogue: 0,0:03:37.35,0:03:38.37,main,Twilight,0000,0000,0000,,Perdão...
+Dialogue: 0,0:03:39.07,0:03:41.12,italics,Chief,0000,0000,0000,,Operação Strix.
+Dialogue: 0,0:03:41.12,0:03:44.60,italics,Chief,0000,0000,0000,,É uma operação chave para manter\Na paz entre Leste e Oeste...
+Dialogue: 0,0:03:44.60,0:03:45.53,italics,Chief,0000,0000,0000,,E talvez no mundo.
+Dialogue: 0,0:03:46.05,0:03:47.92,italics,Chief,0000,0000,0000,,Um herói que não tem sombra,
+Dialogue: 0,0:03:47.92,0:03:51.07,italics,Chief,0000,0000,0000,,seus grandes feitos e de seus colegas\Njamais verão a luz do dia.
+Dialogue: 0,0:03:51.33,0:03:54.53,italics,Chief,0000,0000,0000,,Você nunca ganhará medalhas\Nnem aparecerá no jornal.
+Dialogue: 0,0:03:54.53,0:03:55.58,italics,Chief,0000,0000,0000,,Mesmo assim...
+Dialogue: 0,0:03:55.82,0:03:58.32,italics,Chief,0000,0000,0000,,Nunca esqueça que a vida\Nnormal de todos só é possível
+Dialogue: 0,0:03:58.32,0:03:59.85,italics,Chief,0000,0000,0000,,graças ao seu sangue,\Nsuor e lágrimas.
+Dialogue: 0,0:04:01.45,0:04:02.46,italics,Twilight,0000,0000,0000,,Muito bem...
+Dialogue: 0,0:04:03.07,0:04:05.32,italics,Twilight,0000,0000,0000,,Abandonei minha identidade\Ne me tornei Twilight...
+Dialogue: 0,0:04:05.75,0:04:08.13,italics,Twilight,0000,0000,0000,,Se for preciso, assumirei\No papel de um pai
+Dialogue: 0,0:04:08.71,0:04:11.13,italics,Twilight,0000,0000,0000,,para alcançar um mundo melhor.
+Dialogue: 0,0:04:11.93,0:04:15.85,Sign,Sign,0000,0000,0000,,{\pos(375,285)\fad(947,1)}{\fs19}1ª MISSÃO\N{\fs28}Operação {\fs32}Strix
+Dialogue: 0,0:04:15.85,0:04:18.82,main,Real estate agent,0000,0000,0000,,Este é um apartamento estilo familiar.
+Dialogue: 0,0:04:18.82,0:04:21.41,main,Real estate agent,0000,0000,0000,,Vem mobiliado, tem ar-condicionado,\N aquecimento central e...
+Dialogue: 0,0:04:21.41,0:04:22.86,main,Real estate agent,0000,0000,0000,,Ei, senhor?
+Dialogue: 0,0:04:22.86,0:04:26.52,italics,Loid,0000,0000,0000,,Nenhum grampo e há\Nrotas de fuga seguras...
+Dialogue: 0,0:04:26.52,0:04:27.79,main,Loid,0000,0000,0000,,Aceito.
+Dialogue: 0,0:04:27.79,0:04:30.49,main,Real estate agent,0000,0000,0000,,Excelente, Sr. Forger.\NSe puder assinar estes documentos...
+Dialogue: 0,0:04:30.91,0:04:34.29,italics,Loid,0000,0000,0000,,Loid Forger.\NProfissão: psiquiatra.
+Dialogue: 0,0:04:34.29,0:04:36.59,italics,Loid,0000,0000,0000,,Esta é minha nova vida.
+Dialogue: 0,0:04:37.03,0:04:39.83,italics,Loid,0000,0000,0000,,Com a família feliz que amo...
+Dialogue: 0,0:04:39.83,0:04:42.33,main,Real estate agent,0000,0000,0000,,Que bacana você e sua família\Nse mudarem para um novo lar.
+Dialogue: 0,0:04:42.33,0:04:44.72,main,Real estate agent,0000,0000,0000,,Você tem um filho ou uma filha?
+Dialogue: 0,0:04:44.72,0:04:46.34,main,Loid,0000,0000,0000,,Ah, então...
+Dialogue: 0,0:04:46.34,0:04:47.60,main,Loid,0000,0000,0000,,Ainda está pendente.
+Dialogue: 0,0:04:47.60,0:04:48.13,main,Real estate agent,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:48.48,0:04:51.29,italics,Loid,0000,0000,0000,,Que grande fardo para um espião.
+Dialogue: 0,0:04:53.86,0:04:56.51,main,Orphanage Director,0000,0000,0000,,Hã? Você quer adotar?
+Dialogue: 0,0:04:57.10,0:05:01.49,main,Loid,0000,0000,0000,,Exato. Soube que seu orfanato estava\Nprocurando famílias interessadas.
+Dialogue: 0,0:05:01.49,0:05:02.75,main,Loid,0000,0000,0000,,Sabe, minha esposa e eu—
+Dialogue: 0,0:05:02.75,0:05:05.76,main,Orphanage Director,0000,0000,0000,,Sim, claro. Pegue o que quiser.
+Dialogue: 0,0:05:05.76,0:05:07.37,main,Orphanage Director,0000,0000,0000,,Pode entrar.
+Dialogue: 0,0:05:07.65,0:05:09.72,italics,Loid,0000,0000,0000,,Que ambiente horrível...
+Dialogue: 0,0:05:09.72,0:05:12.11,italics,Loid,0000,0000,0000,,Só que quanto mais suspeito o local,
+Dialogue: 0,0:05:12.11,0:05:14.20,italics,Loid,0000,0000,0000,,mais crianças com\Npassados complicados,
+Dialogue: 0,0:05:14.20,0:05:16.33,italics,Loid,0000,0000,0000,,o que facilita a alteração\Nde suas histórias.
+Dialogue: 0,0:05:16.76,0:05:19.12,italics,Loid,0000,0000,0000,,Com uma criança,\Nesta missão pode dar certo.
+Dialogue: 0,0:05:19.76,0:05:22.36,italics,Loid,0000,0000,0000,,Eu preferiria fazer tudo sozinho,
+Dialogue: 0,0:05:22.36,0:05:25.15,italics,Loid,0000,0000,0000,,mas não tenho como me\Ndisfarçar de criança,
+Dialogue: 0,0:05:25.15,0:05:27.38,italics,Loid,0000,0000,0000,,por melhor espião que seja.
+Dialogue: 0,0:05:27.38,0:05:31.40,main,Loid,0000,0000,0000,,Com licença. Se possível,\Nquero uma criança alfabetizada.
+Dialogue: 0,0:05:31.40,0:05:32.89,main,Orphanage Director,0000,0000,0000,,Bem, neste caso...
+Dialogue: 0,0:05:32.89,0:05:34.54,main,Orphanage director,0000,0000,0000,,Ei, Anya!
+Dialogue: 0,0:05:34.54,0:05:36.26,main,Orphanage Director,0000,0000,0000,,Ela é a mais inteligente.
+Dialogue: 0,0:05:36.26,0:05:38.39,main,Orphanage Director,0000,0000,0000,,Não fala muito,\Nmas é uma boa menina.
+Dialogue: 0,0:05:38.62,0:05:40.81,italics,Orphanage Director,0000,0000,0000,,É uma pirralha medonha e nojenta!
+Dialogue: 0,0:05:40.81,0:05:43.26,italics,Orphanage Director,0000,0000,0000,,Não vejo a hora de me livrar dela.
+Dialogue: 0,0:05:43.26,0:05:45.12,main,Orphanage Director,0000,0000,0000,,Vamos, diga "oi".
+Dialogue: 0,0:05:45.45,0:05:47.29,main,Loid,0000,0000,0000,,Ah, com licença.
+Dialogue: 0,0:05:48.38,0:05:51.27,italics,Loid,0000,0000,0000,,Se bem me lembro, crianças precisam\Nter 6 anos para entrar no Colégio Éden.
+Dialogue: 0,0:05:51.65,0:05:54.08,italics,Loid,0000,0000,0000,,Ela parece ter 4 ou, no máximo, 5.
+Dialogue: 0,0:05:54.08,0:05:54.80,main,Anya,0000,0000,0000,,Seis.
+Dialogue: 0,0:05:55.47,0:05:56.51,main,Anya,0000,0000,0000,,Tenho 6 anos!
+Dialogue: 0,0:05:56.51,0:05:58.80,main,Orphanage Director,0000,0000,0000,,Você tem 6 anos?
+Dialogue: 0,0:05:59.11,0:06:01.17,italics,Loid,0000,0000,0000,,Só que é tão pequena...
+Dialogue: 0,0:06:04.60,0:06:06.79,italics,Loid,0000,0000,0000,,Hum? O papel?
+Dialogue: 0,0:06:07.19,0:06:08.68,italics,Loid,0000,0000,0000,,Palavras-cruzadas?
+Dialogue: 0,0:06:08.68,0:06:11.00,italics,Loid,0000,0000,0000,,Deve ser difícil demais\Npara uma criança...
+Dialogue: 0,0:06:11.80,0:06:14.78,italics,Loid,0000,0000,0000,,Para mim é uma simples\Nbrincadeira de criança.
+Dialogue: 0,0:06:14.78,0:06:16.70,italics,Loid,0000,0000,0000,,Primeiro vertical é "homeostase".
+Dialogue: 0,0:06:16.70,0:06:18.73,italics,Loid,0000,0000,0000,,Primeiro horizontal é "sofisma".
+Dialogue: 0,0:06:18.73,0:06:21.17,italics,Loid,0000,0000,0000,,O logo abaixo é "simpletomorfismo".
+Dialogue: 0,0:06:25.61,0:06:27.53,italics,Loid,0000,0000,0000,,Ela completou? Sério mesmo?!
+Dialogue: 0,0:06:27.53,0:06:29.38,italics,Loid,0000,0000,0000,,Que inteligência inacreditável!
+Dialogue: 0,0:06:29.38,0:06:32.21,italics,Loid,0000,0000,0000,,Ela deve passar fácil\Nno exame de admissão...
+Dialogue: 0,0:06:32.65,0:06:33.53,main,Loid,0000,0000,0000,,Vou levá-la.
+Dialogue: 0,0:06:34.02,0:06:35.29,main,Loid,0000,0000,0000,,Quanto à documentação...
+Dialogue: 0,0:06:35.29,0:06:38.28,main,Orphanage Director,0000,0000,0000,,Não se preocupe. Leve-a logo.
+Dialogue: 0,0:06:38.28,0:06:39.93,italics,Loid,0000,0000,0000,,Missão de encontrar\Numa criança: concluída.
+Dialogue: 0,0:06:39.93,0:06:42.14,italics,Loid,0000,0000,0000,,Tudo está indo tão bem\Nque estou ficando nervoso.
+Dialogue: 0,0:06:42.14,0:06:43.63,main,Loid,0000,0000,0000,,Tudo bem por você?
+Dialogue: 0,0:06:44.00,0:06:46.24,italics,Anya,0000,0000,0000,,Uma missão de espião...
+Dialogue: 0,0:06:46.24,0:06:47.48,italics,Anya,0000,0000,0000,,Que empolgante!
+Dialogue: 0,0:06:47.48,0:06:49.71,Narration,Narrator,0000,0000,0000,,Acontece que a garotinha é telepata.
+Dialogue: 0,0:06:50.13,0:06:52.05,Narration,Narrator,0000,0000,0000,,Cobaia 007.
+Dialogue: 0,0:06:52.41,0:06:55.12,Narration,Narrator,0000,0000,0000,,Ela era capaz de ler os\Npensamentos das pessoas.
+Dialogue: 0,0:06:55.50,0:06:58.53,Narration,Narrator,0000,0000,0000,,Foi criada sem querer em um\Nexperimento de uma organização,
+Dialogue: 0,0:06:58.53,0:07:00.50,Narration,Narrator,0000,0000,0000,,depois fugindo das instalações.
+Dialogue: 0,0:07:00.50,0:07:03.17,Narration,Narrator,0000,0000,0000,,Ela ficou vagando em busca\Nde alguém para cuidá-la.
+Dialogue: 0,0:07:03.53,0:07:04.72,main,Loid,0000,0000,0000,,Escute, garotinha.
+Dialogue: 0,0:07:04.72,0:07:05.52,main,Anya,0000,0000,0000,,Anya!
+Dialogue: 0,0:07:05.52,0:07:06.97,main,Loid,0000,0000,0000,,Escute, Anya.
+Dialogue: 0,0:07:06.97,0:07:09.03,main,Loid,0000,0000,0000,,A partir de hoje,\Nvocê é minha filha,
+Dialogue: 0,0:07:09.03,0:07:12.18,main,Loid,0000,0000,0000,,mas, se perguntarem,\Nvocê {\i1}sempre{\i0} foi minha filha.
+Dialogue: 0,0:07:12.18,0:07:12.95,main,Loid,0000,0000,0000,,Entendido?
+Dialogue: 0,0:07:12.95,0:07:13.66,main,Anya,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:14.66,0:07:17.16,main,Loid,0000,0000,0000,,Sempre me chame de "senhor".
+Dialogue: 0,0:07:17.39,0:07:18.24,main,Anya,0000,0000,0000,,Papai!
+Dialogue: 0,0:07:18.24,0:07:18.91,main,Loid,0000,0000,0000,,Muito bem.
+Dialogue: 0,0:07:19.40,0:07:22.76,main,Neighbor,0000,0000,0000,,Ai, que fofinha! Olá!
+Dialogue: 0,0:07:22.76,0:07:24.55,main,Loid,0000,0000,0000,,Somos os Forger.\NAcabamos de nos mudar.
+Dialogue: 0,0:07:24.55,0:07:27.18,main,Anya,0000,0000,0000,,Me chamo Anya. Sou filha\Ndo papai há muito tempo.
+Dialogue: 0,0:07:28.17,0:07:29.62,italics,Loid,0000,0000,0000,,Não precisava.
+Dialogue: 0,0:07:29.62,0:07:31.68,main,Loid,0000,0000,0000,,Vamos entrar.
+Dialogue: 0,0:07:32.57,0:07:33.86,main,Anya,0000,0000,0000,,Aqui é a minha casa?
+Dialogue: 0,0:07:33.86,0:07:34.73,main,Loid,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:34.73,0:07:35.94,main,Anya,0000,0000,0000,,Uma TV!
+Dialogue: 0,0:07:36.67,0:07:38.03,main,Loid,0000,0000,0000,,Pode ligar.
+Dialogue: 0,0:07:39.61,0:07:42.38,italicstop,TV Announcer,0000,0000,0000,,"Guerra de Espiões",\Num desenho de aventura!
+Dialogue: 0,0:07:41.14,0:07:42.68,main,Anya,0000,0000,0000,,A Anya gosta desse desenho.
+Dialogue: 0,0:07:44.30,0:07:45.70,italics,Loid,0000,0000,0000,,Justo esse...
+Dialogue: 0,0:07:45.70,0:07:48.08,italics,Bondman,0000,0000,0000,,Uma arma com silenciador?
+Dialogue: 0,0:07:48.08,0:07:49.06,main,Anya,0000,0000,0000,,Que empolgante!
+Dialogue: 0,0:07:48.32,0:07:50.04,italicstop,Bondman,0000,0000,0000,,Você é profissional!
+Dialogue: 0,0:07:49.56,0:07:52.10,italics,Loid,0000,0000,0000,,Primeiro tenho que pegar\Ntudo que vamos precisar...
+Dialogue: 0,0:07:50.49,0:07:52.61,italicstop,Bondman,0000,0000,0000,,Vou pegar aquela bomba de volta!
+Dialogue: 0,0:07:52.10,0:07:54.58,italics,Loid,0000,0000,0000,,E tenho que forjar uma\Nidentidade para ela.
+Dialogue: 0,0:07:52.61,0:07:55.68,italicstop,Bondman,0000,0000,0000,,Quem me atrapalhar vai se arrepender!
+Dialogue: 0,0:07:54.58,0:07:56.16,main,Loid,0000,0000,0000,,Vou dar uma saidinha.
+Dialogue: 0,0:07:56.16,0:07:57.72,main,Loid,0000,0000,0000,,Fique assistindo o desenho.
+Dialogue: 0,0:07:56.79,0:07:58.83,italicstop,Bondman,0000,0000,0000,,Saia da frente!
+Dialogue: 0,0:07:58.83,0:08:00.76,main,Anya,0000,0000,0000,,Uma aventura!
+Dialogue: 0,0:08:00.76,0:08:02.82,main,Loid,0000,0000,0000,,Não é uma aventura,\Nsó vou fazer compras!
+Dialogue: 0,0:08:07.07,0:08:09.81,main,Anya,0000,0000,0000,,A Anya quer uma\Npistola com silenciador!
+Dialogue: 0,0:08:09.81,0:08:11.34,main,Loid,0000,0000,0000,,Claro. Se estiver em promoção...
+Dialogue: 0,0:08:11.94,0:08:13.16,italics,Loid,0000,0000,0000,,Para ser um espião mestre,
+Dialogue: 0,0:08:13.16,0:08:15.97,italics,Loid,0000,0000,0000,,preciso agir normalmente\Nsem chamar atenção.
+Dialogue: 0,0:08:15.97,0:08:18.86,italics,Loid,0000,0000,0000,,Temos que fazer de tudo para\Nparecer uma família comum.
+Dialogue: 0,0:08:18.86,0:08:22.82,top,Anya,0000,0000,0000,,Papai! Socorro!
+Dialogue: 0,0:08:20.06,0:08:21.36,italics,Loid,0000,0000,0000,,Não chame atenção!
+Dialogue: 0,0:08:21.36,0:08:24.70,main,Old Lady,0000,0000,0000,,Acalme-se. Você tem que\Nsegurar a mão da pequenina.
+Dialogue: 0,0:08:24.70,0:08:25.61,main,Old Lady,0000,0000,0000,,Aqui.
+Dialogue: 0,0:08:29.48,0:08:33.53,italics,Loid,0000,0000,0000,,Com uma mão presa fica difícil me\Npreparar para uma emboscada inimiga,
+Dialogue: 0,0:08:33.53,0:08:34.42,italics,Loid,0000,0000,0000,,mas não importa.
+Dialogue: 0,0:08:34.42,0:08:35.44,italics,Anya,0000,0000,0000,,Um inimigo?!
+Dialogue: 0,0:08:41.88,0:08:43.10,main,Loid,0000,0000,0000,,O que está fazendo?
+Dialogue: 0,0:08:43.10,0:08:44.01,main,Anya,0000,0000,0000,,Me escondendo!
+Dialogue: 0,0:08:44.01,0:08:46.24,italics,Loid,0000,0000,0000,,Fiz algo para que ela\Nse escondesse de mim?
+Dialogue: 0,0:08:46.24,0:08:48.92,italics,Loid,0000,0000,0000,,Talvez seja cedo para andar\Nde mãos dadas... Ela me odeia?
+Dialogue: 0,0:08:48.92,0:08:49.86,italics,Loid,0000,0000,0000,,Isso não é bom.
+Dialogue: 0,0:08:49.86,0:08:53.38,italics,Loid,0000,0000,0000,,Temos que manter um bom\Nrelacionamento até o fim da missão.
+Dialogue: 0,0:08:53.69,0:08:56.39,italics,Loid,0000,0000,0000,,Tenho que aprender\Nmais sobre esta criatura.
+Dialogue: 0,0:08:56.39,0:08:59.38,italics,Loid,0000,0000,0000,,É diplomacia básica... Entender o\Noutro é o primeiro passo rumo à paz.
+Dialogue: 0,0:08:59.71,0:09:02.26,italics,Anya,0000,0000,0000,,Me entender leva à paz mundial?
+Dialogue: 0,0:09:04.11,0:09:06.27,main,Anya,0000,0000,0000,,A Anya gosta de amendoim!
+Dialogue: 0,0:09:06.27,0:09:07.38,main,Anya,0000,0000,0000,,E não gosto de cenoura.
+Dialogue: 0,0:09:07.38,0:09:08.44,main,Loid,0000,0000,0000,,Ah...
+Dialogue: 0,0:09:08.44,0:09:10.31,main,Anya,0000,0000,0000,,Mas gosto do desfile da {\i1}paradia{\i0}!
+Dialogue: 0,0:09:11.39,0:09:14.50,main,Loid,0000,0000,0000,,É "padaria". Não tem a ver com "parada".
+Dialogue: 0,0:09:15.83,0:09:17.12,main,Anya,0000,0000,0000,,Quero este, por favor.
+Dialogue: 0,0:09:17.73,0:09:20.69,main,Loid,0000,0000,0000,,Custa 1 dalc. Não dá para comprar\Ncom uma moeda de 10 pents.
+Dialogue: 0,0:09:24.49,0:09:27.19,italics,Loid,0000,0000,0000,,Será que, na verdade,\Nessa menina é burrinha?
+Dialogue: 0,0:09:27.19,0:09:28.96,italics,Loid,0000,0000,0000,,As palavras-cruzadas\Nforam um golpe de sorte?
+Dialogue: 0,0:09:28.96,0:09:30.88,italics,Loid,0000,0000,0000,,Talvez eu ainda possa\Ntrocar por outra...
+Dialogue: 0,0:09:32.25,0:09:33.67,main,Anya,0000,0000,0000,,Por favor, não se livre de mim!
+Dialogue: 0,0:09:33.67,0:09:35.06,main,Loid,0000,0000,0000,,O que deu em você?\NPor favor, não se livre de mim!
+Dialogue: 0,0:09:34.85,0:09:37.00,top,Passerby,0000,0000,0000,,Que pai horrível.
+Dialogue: 0,0:09:35.59,0:09:38.58,main,Anya,0000,0000,0000,,Por favor! Sou boa em pechinchar!
+Dialogue: 0,0:09:39.64,0:09:40.92,italics,Loid,0000,0000,0000,,O que faço?
+Dialogue: 0,0:09:41.44,0:09:43.24,main,Loid,0000,0000,0000,,Comprarei amendoins,\Nentão pare de chorar!
+Dialogue: 0,0:09:43.78,0:09:45.05,main,Anya,0000,0000,0000,,Amendoim!
+Dialogue: 0,0:09:48.44,0:09:51.19,main,Anya,0000,0000,0000,,Papai, a Anya está cansada...
+Dialogue: 0,0:09:51.19,0:09:52.64,main,Anya,0000,0000,0000,,Não consigo mais andar...
+Dialogue: 0,0:09:52.64,0:09:53.58,main,Loid,0000,0000,0000,,O quê?
+Dialogue: 0,0:09:54.64,0:09:57.19,italics,Loid,0000,0000,0000,,Não está funcionando.\NEu não entendo...
+Dialogue: 0,0:09:57.67,0:09:59.90,italics,Loid,0000,0000,0000,,...este comportamento irracional.
+Dialogue: 0,0:10:00.70,0:10:03.99,italics,Loid,0000,0000,0000,,Preciso de alguns manuais para entender.
+Dialogue: 0,0:10:05.66,0:10:08.00,main,Loid,0000,0000,0000,,"O segredo da criação\Nde filhos é a confiança."
+Dialogue: 0,0:10:08.35,0:10:11.50,main,Loid,0000,0000,0000,,"Em vez de dar bronca, tente entender\Na situação da perspectiva da criança."
+Dialogue: 0,0:10:11.90,0:10:15.02,main,Loid,0000,0000,0000,,"Crianças não sabem expressar o\Nque estão sentindo muito bem,
+Dialogue: 0,0:10:15.02,0:10:16.99,main,Loid,0000,0000,0000,,então tente ser mais compreensivo."
+Dialogue: 0,0:10:16.99,0:10:18.74,main,Loid,0000,0000,0000,,Então não dá para interrogar?
+Dialogue: 0,0:10:19.01,0:10:19.59,Sign 1,Sign,0000,0000,0000,,{\c&H18271f&\fs20\3c&HA29250&\an7}Cuidando de crianças
+Dialogue: 0,0:10:19.34,0:10:22.43,Sign 1,Sign,0000,0000,0000,,{\an9\bord4}Criação
+Dialogue: 0,0:10:19.39,0:10:20.84,italics,Loid,0000,0000,0000,,Pais e mães do mundo todo
+Dialogue: 0,0:10:20.84,0:10:23.51,italics,Loid,0000,0000,0000,,sempre executam missões difíceis assim?
+Dialogue: 0,0:10:23.99,0:10:27.18,main,Loid,0000,0000,0000,,"Cultive a autoestima da criança para\Nque ela tenha um futuro melhor."
+Dialogue: 0,0:10:27.18,0:10:31.17,main,Loid,0000,0000,0000,,"Ao permitir que a criança pense\Npor si mesma, no futuro..."
+Dialogue: 0,0:10:33.81,0:10:36.80,italics,Loid,0000,0000,0000,,Assim que terminar a missão,\Nvou mandá-la de volta ao orfanato.
+Dialogue: 0,0:10:37.32,0:10:39.43,italics,Loid,0000,0000,0000,,Nosso relacionamento é só isso.
+Dialogue: 0,0:10:43.58,0:10:45.64,main,Anya,0000,0000,0000,,Não quero!
+Dialogue: 0,0:10:45.64,0:10:48.09,main,Anya,0000,0000,0000,,Não quero estudar!
+Dialogue: 0,0:10:48.09,0:10:51.62,main,Loid,0000,0000,0000,,Preciso medir sua\Ninteligência para a prova.
+Dialogue: 0,0:10:51.62,0:10:54.73,main,Anya,0000,0000,0000,,Eu não preciso estudar\Npra prova nenhuma.
+Dialogue: 0,0:10:54.73,0:10:56.12,main,Anya,0000,0000,0000,,É só ler a dos outros...
+Dialogue: 0,0:10:56.12,0:10:57.13,italics,Anya,0000,0000,0000,,A mente dos outros...
+Dialogue: 0,0:10:57.47,0:11:00.23,main,Loid,0000,0000,0000,,Você pretende colar?\NOlha aqui...
+Dialogue: 0,0:11:00.23,0:11:01.81,main,Loid,0000,0000,0000,,Se você não entrar nesse colégio...
+Dialogue: 0,0:11:01.81,0:11:02.85,italics,Loid,0000,0000,0000,,Minha missão vai fracassar.
+Dialogue: 0,0:11:06.36,0:11:07.65,main,Loid,0000,0000,0000,,Está bem, que seja.
+Dialogue: 0,0:11:09.29,0:11:10.31,main,Loid,0000,0000,0000,,Estou indo.
+Dialogue: 0,0:11:11.72,0:11:13.54,main,Loid,0000,0000,0000,,Hoje você não vem comigo.
+Dialogue: 0,0:11:13.81,0:11:15.09,main,Loid,0000,0000,0000,,De jeito nenhum.
+Dialogue: 0,0:11:15.09,0:11:16.27,main,Loid,0000,0000,0000,,Vai ficar em casa.
+Dialogue: 0,0:11:22.05,0:11:22.69,main,Loid,0000,0000,0000,,Ei!
+Dialogue: 0,0:11:23.41,0:11:24.67,main,Loid,0000,0000,0000,,Já disse que você não vem!
+Dialogue: 0,0:11:26.01,0:11:28.66,main,Loid,0000,0000,0000,,Você aí! Acha mesmo\Nque não estou vendo?
+Dialogue: 0,0:11:29.12,0:11:30.07,main,Loid,0000,0000,0000,,Aí!
+Dialogue: 0,0:11:30.34,0:11:31.29,main,Loid,0000,0000,0000,,Aí!
+Dialogue: 0,0:11:31.60,0:11:33.82,italics,Anya,0000,0000,0000,,O papai é bom em esconde-esconde!
+Dialogue: 0,0:11:33.82,0:11:34.75,italics,Anya,0000,0000,0000,,Que divertido!
+Dialogue: 0,0:11:36.34,0:11:37.75,main,Loid,0000,0000,0000,,Quero ver sair daí!
+Dialogue: 0,0:11:38.12,0:11:39.77,main,Franky,0000,0000,0000,,Por isso que se atrasou?
+Dialogue: 0,0:11:40.04,0:11:43.76,main,Loid,0000,0000,0000,,No fim, eu fiz uma barricada\Nna porta e a tranquei por dentro.
+Dialogue: 0,0:11:43.76,0:11:46.56,main,Franky,0000,0000,0000,,Vou rezar pra que não te\Ndenunciem ao conselho tutelar...
+Dialogue: 0,0:11:46.56,0:11:49.09,main,Loid,0000,0000,0000,,Vai saber o que se passa\Nna mente de uma criança.
+Dialogue: 0,0:11:49.34,0:11:52.52,main,Loid,0000,0000,0000,,A técnica do choro para conseguir\No que quer é bem irritante.
+Dialogue: 0,0:11:52.52,0:11:55.72,main,Franky,0000,0000,0000,,Sinto muito, Twilight, mas chorar\Né o trabalho das crianças.
+Dialogue: 0,0:11:55.72,0:11:58.16,main,Franky,0000,0000,0000,,Enfim, aqui está o que você pediu.
+Dialogue: 0,0:11:58.16,0:12:00.85,main,Franky,0000,0000,0000,,Formulário de inscrição, ingresso\Npra prova e as perguntas que vão cair.
+Dialogue: 0,0:12:01.13,0:12:03.14,main,Franky,0000,0000,0000,,Foi um inferno conseguir.
+Dialogue: 0,0:12:03.14,0:12:04.62,main,Loid,0000,0000,0000,,Obrigado, Franky!
+Dialogue: 0,0:12:04.62,0:12:07.37,main,Loid,0000,0000,0000,,Se ela decorar tudo, deve dar certo.
+Dialogue: 0,0:12:07.37,0:12:09.27,main,Franky,0000,0000,0000,,Falando nisso, sobre sua filha...
+Dialogue: 0,0:12:09.27,0:12:11.61,main,Franky,0000,0000,0000,,Investiguei os registros\Nque o orfanato não tinha.
+Dialogue: 0,0:12:12.30,0:12:14.34,main,Franky,0000,0000,0000,,Não encontrei nada\Nsobre o nascimento dela.
+Dialogue: 0,0:12:14.34,0:12:16.38,main,Franky,0000,0000,0000,,E nada sobre a idade, nem sobre os pais.
+Dialogue: 0,0:12:16.38,0:12:18.73,main,Franky,0000,0000,0000,,Só encontrei informações do ano passado.
+Dialogue: 0,0:12:18.73,0:12:21.61,main,Franky,0000,0000,0000,,Ela foi adotada quatro vezes\Ne sempre foi devolvida.
+Dialogue: 0,0:12:21.61,0:12:23.67,main,Franky,0000,0000,0000,,Também já esteve em\Noutros dois orfanatos.
+Dialogue: 0,0:12:23.67,0:12:27.34,main,Loid,0000,0000,0000,,Anya Williams, Anya Levski, Anya Roche...
+Dialogue: 0,0:12:27.34,0:12:29.13,main,Franky,0000,0000,0000,,Ela muda de nome\Ntanto quanto você.
+Dialogue: 0,0:12:29.13,0:12:30.84,main,Franky,0000,0000,0000,,A combinação perfeita!
+Dialogue: 0,0:12:31.92,0:12:34.39,main,Franky,0000,0000,0000,,Ei, estou brincando.\NÉ pra sua missão, correto?
+Dialogue: 0,0:12:34.68,0:12:37.97,main,Franky,0000,0000,0000,,Por mais que ela seja criança,\Nnão será bom se apegar demais.
+Dialogue: 0,0:12:39.17,0:12:40.56,main,Loid,0000,0000,0000,,Obrigado pela preocupação.
+Dialogue: 0,0:12:40.56,0:12:42.20,main,Franky,0000,0000,0000,,Ei? Cadê meu dinheiro?
+Dialogue: 0,0:12:42.75,0:12:47.00,main,Franky,0000,0000,0000,,Droga... Também não dá pra saber\No que espiões estão pensando!
+Dialogue: 0,0:12:53.49,0:12:56.97,italics,Anya,0000,0000,0000,,Não tem nada para fazer...\NSer espião é diferente do que pensei.
+Dialogue: 0,0:12:56.97,0:12:59.83,italics,Anya,0000,0000,0000,,Só quero recuperar a bomba.
+Dialogue: 0,0:13:00.14,0:13:03.46,italics,Loid,0000,0000,0000,,Ela não pode mexer no equipamento\Nde espionagem, então vou trancar.
+Dialogue: 0,0:13:03.85,0:13:06.10,italics,Loid,0000,0000,0000,,A senha é 6, 1...
+Dialogue: 0,0:13:06.10,0:13:07.02,main,Anya,0000,0000,0000,,1, 0.
+Dialogue: 0,0:13:07.02,0:13:08.93,main,Anya,0000,0000,0000,,Bombinhas!
+Dialogue: 0,0:13:14.82,0:13:17.47,main,Anya,0000,0000,0000,,Bombinhas!
+Dialogue: 0,0:13:17.47,0:13:19.18,main,Anya,0000,0000,0000,,Uau!
+Dialogue: 0,0:13:19.18,0:13:20.97,main,Anya,0000,0000,0000,,Mensagens secretas!
+Dialogue: 0,0:13:21.52,0:13:23.98,main,Anya,0000,0000,0000,,Segredos...
+Dialogue: 0,0:13:25.40,0:13:28.50,main,Henchman A,0000,0000,0000,,Chefe! Interceptamos uma mensagem.
+Dialogue: 0,0:13:28.79,0:13:30.14,main,Edgar,0000,0000,0000,,Está usando o código do Oeste?
+Dialogue: 0,0:13:30.51,0:13:32.42,main,Henchman A,0000,0000,0000,,Não, é texto normal.
+Dialogue: 0,0:13:32.42,0:13:35.20,main,Henchman A,0000,0000,0000,,Está escrito "Aqui é Twilight".
+Dialogue: 0,0:13:35.84,0:13:37.49,main,Henchman A,0000,0000,0000,,Aqui é Twilight!
+Dialogue: 0,0:13:37.49,0:13:39.92,main,Henchman A,0000,0000,0000,,É a frequência usada pela\Ninteligência do Oeste.
+Dialogue: 0,0:13:39.92,0:13:43.38,main,Henchman A,0000,0000,0000,,Ah, tem mais.\N"Pegue-me se for capaz."
+Dialogue: 0,0:13:43.38,0:13:45.58,main,Edgar,0000,0000,0000,,Determine logo a localização!
+Dialogue: 0,0:13:47.71,0:13:48.76,main,Anya,0000,0000,0000,,Ufa...
+Dialogue: 0,0:13:51.25,0:13:54.37,main,Loid,0000,0000,0000,,Agora que descobriu que\Nsou espião, você tem que sumir.
+Dialogue: 0,0:13:56.27,0:13:58.95,main,Anya,0000,0000,0000,,Se ele descobrir que eu leio mentes...
+Dialogue: 0,0:13:59.69,0:14:01.06,main,Anya,0000,0000,0000,,...vou ter que ir embora.
+Dialogue: 0,0:14:01.29,0:14:05.58,flashback,Researcher A,0000,0000,0000,,Anya, não conte a\Nninguém sobre seu poder.
+Dialogue: 0,0:14:05.94,0:14:08.43,flashback,Researcher B,0000,0000,0000,,É hora de estudar, Anya.
+Dialogue: 0,0:14:08.43,0:14:10.27,flashback,Anya,0000,0000,0000,,Mas a Anya quer desenhar...
+Dialogue: 0,0:14:10.56,0:14:12.98,flashback,Researcher A,0000,0000,0000,,Não perca tempo\Ncom jogos infantis.
+Dialogue: 0,0:14:12.98,0:14:16.28,flashback,Researcher A,0000,0000,0000,,Temos que usar o seu\Npoder pela paz mundial.
+Dialogue: 0,0:14:16.72,0:14:18.46,flashback,Researcher A,0000,0000,0000,,Também não há\Ntempo para chorar!
+Dialogue: 0,0:14:18.46,0:14:20.30,flashback,Researcher A,0000,0000,0000,,Chega de brincar,\Nde volta aos estudos.
+Dialogue: 0,0:14:25.07,0:14:28.02,italics,Loid,0000,0000,0000,,Espero que ela não tenha\Ndestruído o apartamento.
+Dialogue: 0,0:14:28.62,0:14:30.88,italics,Loid,0000,0000,0000,,Verdade, tenho que tirar isso.
+Dialogue: 0,0:14:53.61,0:14:55.10,italics,Loid,0000,0000,0000,,Quem são esses caras?
+Dialogue: 0,0:14:55.60,0:14:56.70,main,Loid,0000,0000,0000,,Anya!
+Dialogue: 0,0:14:57.76,0:14:58.79,main,Loid,0000,0000,0000,,Anya!
+Dialogue: 0,0:15:00.87,0:15:02.16,italics,Loid,0000,0000,0000,,Ela foi raptada?
+Dialogue: 0,0:15:02.45,0:15:05.00,italics,Loid,0000,0000,0000,,Pela pessoa que enviou os\Ncapangas? Mas por quê?
+Dialogue: 0,0:15:05.84,0:15:08.86,italics,Loid,0000,0000,0000,,Tenho que encontrá-la\Nagora mesmo. Calma.
+Dialogue: 0,0:15:09.34,0:15:12.82,italics,Loid,0000,0000,0000,,Parece que fui comprometido.
+Dialogue: 0,0:15:12.82,0:15:14.55,italics,Loid,0000,0000,0000,,Preciso ir para algum lugar seguro agora.
+Dialogue: 0,0:15:15.18,0:15:16.32,italics,Loid,0000,0000,0000,,Quanto à Anya...
+Dialogue: 0,0:15:16.97,0:15:19.22,italics,Loid,0000,0000,0000,,Há várias outras crianças por aí.
+Dialogue: 0,0:15:19.22,0:15:21.08,italics,Loid,0000,0000,0000,,Vou começar tudo do zero e...
+Dialogue: 0,0:15:24.11,0:15:25.94,main,Edgar,0000,0000,0000,,Quem é esta criança?
+Dialogue: 0,0:15:26.88,0:15:28.65,main,Edgar,0000,0000,0000,,Será filha do Twilight?
+Dialogue: 0,0:15:28.65,0:15:31.74,main,Henchman B,0000,0000,0000,,Sei lá. Ela estava no apartamento\Nde onde a mensagem veio,
+Dialogue: 0,0:15:31.74,0:15:32.94,main,Henchman B,0000,0000,0000,,então a pegamos para garantir...
+Dialogue: 0,0:15:32.94,0:15:34.17,italics,Anya,0000,0000,0000,,Por conta da transmissão?
+Dialogue: 0,0:15:34.17,0:15:37.44,main,Henchman B,0000,0000,0000,,Ela estava escondida no apartamento,\Ncom uma barricada por fora.
+Dialogue: 0,0:15:37.44,0:15:38.56,main,Edgar,0000,0000,0000,,Por que por fora?
+Dialogue: 0,0:15:38.56,0:15:39.46,main,Henchman B,0000,0000,0000,,Vai saber.
+Dialogue: 0,0:15:39.46,0:15:43.76,main,Edgar,0000,0000,0000,,Bem, não interessa.\NPodemos usá-la como refém
+Dialogue: 0,0:15:43.76,0:15:45.89,main,Edgar,0000,0000,0000,,para obrigar o Twilight\Na roubar a peruca
+Dialogue: 0,0:15:45.89,0:15:47.88,main,Edgar,0000,0000,0000,,diretamente da cabeça do ministro.
+Dialogue: 0,0:15:47.88,0:15:51.44,main,Henchman D,0000,0000,0000,,Chefe, acho melhor desistir da peruca!
+Dialogue: 0,0:15:51.80,0:15:54.32,main,Edgar,0000,0000,0000,,Transparência é essencial no governo.
+Dialogue: 0,0:15:54.32,0:15:55.69,main,Edgar,0000,0000,0000,,Perucas não servem.
+Dialogue: 0,0:15:55.69,0:15:57.75,italics,Anya,0000,0000,0000,,Uma pistola com silenciador...
+Dialogue: 0,0:15:57.75,0:16:01.79,main,Edgar,0000,0000,0000,,Além disso, o ministro é um traidor que,\Nem segredo, apoia o Oeste.
+Dialogue: 0,0:16:01.79,0:16:04.70,main,Edgar,0000,0000,0000,,Quem defende um\Ntraidor também é traidor.
+Dialogue: 0,0:16:05.14,0:16:07.60,italics,Anya,0000,0000,0000,,Um malvadão de verdade...
+Dialogue: 0,0:16:09.32,0:16:12.59,main,Henchman G,0000,0000,0000,,Chefe! O pessoal do Nguyen\Nvoltou do apartamento!
+Dialogue: 0,0:16:13.64,0:16:15.44,main,Fake Nguyen,0000,0000,0000,,Nós o capturamos!
+Dialogue: 0,0:16:16.35,0:16:17.71,main,Edgar,0000,0000,0000,,Muito bem.
+Dialogue: 0,0:16:18.78,0:16:22.19,main,Fake Nguyen,0000,0000,0000,,E ele não se moveu como\Num amador. É ele mesmo.
+Dialogue: 0,0:16:22.19,0:16:23.95,main,Henchman E,0000,0000,0000,,Descanse aí.
+Dialogue: 0,0:16:23.95,0:16:26.76,main,Edgar,0000,0000,0000,,Enfim, Twilight...
+Dialogue: 0,0:16:27.32,0:16:30.16,main,Edgar,0000,0000,0000,,Devolva as fotos que roubou de mim.
+Dialogue: 0,0:16:31.50,0:16:32.31,main,Edgar,0000,0000,0000,,Nguyen!
+Dialogue: 0,0:16:32.31,0:16:33.75,main,Henchman E,0000,0000,0000,,O que houve? Ele estava aqui...
+Dialogue: 0,0:16:33.75,0:16:34.76,main,Henchman C,0000,0000,0000,,A criança sumiu!
+Dialogue: 0,0:16:35.04,0:16:36.73,main,Edgar,0000,0000,0000,,Ele me pegou de novo!
+Dialogue: 0,0:16:36.99,0:16:38.15,italics,Loid,0000,0000,0000,,Isso foi um erro.
+Dialogue: 0,0:16:38.15,0:16:40.88,italics,Loid,0000,0000,0000,,Eu entrei em território\Ninimigo e pus tudo em risco.
+Dialogue: 0,0:16:40.88,0:16:42.02,italics,Loid,0000,0000,0000,,Sou um fracasso de espião!
+Dialogue: 0,0:16:42.02,0:16:42.92,main,Anya,0000,0000,0000,,Papai...
+Dialogue: 0,0:16:42.92,0:16:45.61,top,Anya,0000,0000,0000,,Papai!
+Dialogue: 0,0:16:43.71,0:16:46.53,main,Fake Nguyen,0000,0000,0000,,Ei, está tudo bem.\NNão vou fazer nada.
+Dialogue: 0,0:16:46.53,0:16:47.68,main,Fake Nguyen,0000,0000,0000,,Não precisa ficar com medo.
+Dialogue: 0,0:16:47.22,0:16:50.88,top,Anya,0000,0000,0000,,Papai!
+Dialogue: 0,0:16:49.27,0:16:50.88,italics,Loid,0000,0000,0000,,Por isso criança é uma droga...
+Dialogue: 0,0:16:51.63,0:16:52.86,italics,Loid,0000,0000,0000,,Entendi.
+Dialogue: 0,0:16:53.29,0:16:56.98,italics,Loid,0000,0000,0000,,Acho que entendi por que odeio\Ntanto ouvir crianças chorando.
+Dialogue: 0,0:16:57.39,0:17:00.12,italics,Loid,0000,0000,0000,,É porque eu acabo me\Nlembrando da minha infância.
+Dialogue: 0,0:17:01.00,0:17:03.78,italics,Loid,0000,0000,0000,,Ninguém estendeu a mão para me salvar.
+Dialogue: 0,0:17:03.78,0:17:07.44,italics,Loid,0000,0000,0000,,Eu me sentia só, desesperado e impotente.\NTudo que podia fazer era chorar...
+Dialogue: 0,0:17:08.25,0:17:10.96,italics,Loid,0000,0000,0000,,Achei que tivesse abandonado\Nmeu passado, mas, no fundo,
+Dialogue: 0,0:17:10.96,0:17:12.60,italics,Loid,0000,0000,0000,,me identifiquei com ela.
+Dialogue: 0,0:17:12.60,0:17:14.83,italics,Loid,0000,0000,0000,,Não, na verdade...
+Dialogue: 0,0:17:18.24,0:17:19.73,main,Fake Nguyen,0000,0000,0000,,Ei, garotinha.
+Dialogue: 0,0:17:19.73,0:17:20.76,main,Anya,0000,0000,0000,,Anya.
+Dialogue: 0,0:17:20.76,0:17:22.46,main,Fake Nguyen,0000,0000,0000,,Olhe, Anya.
+Dialogue: 0,0:17:22.46,0:17:26.09,main,Fake Nguyen,0000,0000,0000,,Meus amigos e eu somos\Nprofissionais em pega-pega.
+Dialogue: 0,0:17:26.09,0:17:28.67,main,Fake Nguyen,0000,0000,0000,,Sempre que encontramos\Nalguém com potencial,
+Dialogue: 0,0:17:28.67,0:17:30.44,main,Fake Nguyen,0000,0000,0000,,desafiamos a pessoa em um jogo.
+Dialogue: 0,0:17:30.44,0:17:31.25,main,Anya,0000,0000,0000,,Ah.
+Dialogue: 0,0:17:31.25,0:17:32.68,italics,Anya,0000,0000,0000,,O papai é mentiroso.
+Dialogue: 0,0:17:32.68,0:17:33.28,main,Fake Nguyen,0000,0000,0000,,Atenção.
+Dialogue: 0,0:17:33.69,0:17:36.91,main,Fake Nguyen,0000,0000,0000,,Se você for correndo por\Nesta rua e virar à direita,
+Dialogue: 0,0:17:36.91,0:17:38.04,main,Fake Nguyen,0000,0000,0000,,tem um posto policial.
+Dialogue: 0,0:17:38.04,0:17:41.65,main,Fake Nguyen,0000,0000,0000,,Se você levar isto até\Num policial, você vence.
+Dialogue: 0,0:17:41.65,0:17:42.46,main,Fake Nguyen,0000,0000,0000,,Entendido?
+Dialogue: 0,0:17:42.46,0:17:45.93,italics,Loid,0000,0000,0000,,Se você mostrar isto, vão te colocar\Nnum orfanato melhor.
+Dialogue: 0,0:17:45.93,0:17:48.04,italics,Loid,0000,0000,0000,,Não vou envolver uma\Ncriança nesta missão.
+Dialogue: 0,0:17:48.04,0:17:49.94,italics,Loid,0000,0000,0000,,Vou pensar em algo e refazer o plano.
+Dialogue: 0,0:17:48.93,0:17:49.94,top,Anya,0000,0000,0000,,Pa—
+Dialogue: 0,0:17:49.94,0:17:51.66,main,Loid,0000,0000,0000,,Beleza, vá! Depressa!
+Dialogue: 0,0:17:52.93,0:17:55.42,italics,Loid,0000,0000,0000,,Sou um fracasso como espião? Não.
+Dialogue: 0,0:17:55.78,0:17:58.75,italics,Loid,0000,0000,0000,,Meu erro foi colocar\Naquela garotinha em perigo.
+Dialogue: 0,0:17:59.12,0:18:00.26,italics,Loid,0000,0000,0000,,Como eu fui esquecer?
+Dialogue: 0,0:18:00.64,0:18:04.51,italics,Loid,0000,0000,0000,,Virei espião para criar um mundo
+Dialogue: 0,0:18:05.13,0:18:06.73,italics,Loid,0000,0000,0000,,onde crianças não precisem chorar.
+Dialogue: 0,0:18:10.47,0:18:12.70,main,Henchman B,0000,0000,0000,,Não deixem o desgraçado fugir!
+Dialogue: 0,0:18:12.70,0:18:14.79,main,Henchman E,0000,0000,0000,,Vamos arrastá-lo pra cá e\Nexpor a cara dele...
+Dialogue: 0,0:18:16.02,0:18:18.00,main,Henchman B,0000,0000,0000,,Uma armadilha? Quando foi que ele...
+Dialogue: 0,0:18:18.99,0:18:20.92,main,Henchman E,0000,0000,0000,,O que é isso? Farinha de trigo?
+Dialogue: 0,0:18:21.33,0:18:23.08,main,Henchman C,0000,0000,0000,,Twilight?
+Dialogue: 0,0:18:23.08,0:18:25.29,main,Henchman B,0000,0000,0000,,Não atire! Vai tudo explodir!
+Dialogue: 0,0:18:32.85,0:18:33.39,main,Edgar,0000,0000,0000,,O quê?
+Dialogue: 0,0:18:34.72,0:18:35.87,main,Edgar,0000,0000,0000,,Só pode ser brincadeira.
+Dialogue: 0,0:18:38.88,0:18:40.78,main,Loid,0000,0000,0000,,Caso você se vire, morrerá.
+Dialogue: 0,0:18:40.78,0:18:42.39,main,Edgar,0000,0000,0000,,Twilight...
+Dialogue: 0,0:18:42.66,0:18:45.92,main,Loid,0000,0000,0000,,Bom dia, ou talvez seja boa noite, Edgar...
+Dialogue: 0,0:18:45.92,0:18:47.25,main,Loid,0000,0000,0000,,Como a Karen está?
+Dialogue: 0,0:18:47.25,0:18:49.39,main,Edgar,0000,0000,0000,,Como você sabe\No nome da minha filha?
+Dialogue: 0,0:18:49.39,0:18:52.61,main,Loid,0000,0000,0000,,É claro que sei.\NÉ isso o que espiões fazem.
+Dialogue: 0,0:18:52.61,0:18:54.63,main,Loid,0000,0000,0000,,Sei a altura, peso, número do sapato,
+Dialogue: 0,0:18:54.63,0:18:57.40,main,Loid,0000,0000,0000,,comidas preferidas e o número\Nde pintas no corpo dela.
+Dialogue: 0,0:18:57.89,0:19:01.98,main,Loid,0000,0000,0000,,E, embora não chegue aos pés do seu,\Ntambém sei o histórico criminoso dela.
+Dialogue: 0,0:19:01.98,0:19:03.66,main,Edgar,0000,0000,0000,,Que absurdo! Minha filha jamais...
+Dialogue: 0,0:19:03.66,0:19:04.23,main,Loid,0000,0000,0000,,Edgar.
+Dialogue: 0,0:19:04.51,0:19:07.42,main,Loid,0000,0000,0000,,Eu também sei como você\Nse importa com sua filha.
+Dialogue: 0,0:19:07.42,0:19:08.24,main,Loid,0000,0000,0000,,Então preste atenção.
+Dialogue: 0,0:19:08.49,0:19:11.48,main,Loid,0000,0000,0000,,Se quiser que ela tenha uma\Nvida remotamente normal,
+Dialogue: 0,0:19:11.48,0:19:13.31,main,Loid,0000,0000,0000,,você vai me deixar em paz.
+Dialogue: 0,0:19:16.00,0:19:18.46,main,Loid,0000,0000,0000,,Caso tenha entendido,\Nvá para casa.
+Dialogue: 0,0:19:33.52,0:19:34.42,main,Loid,0000,0000,0000,,Anya!
+Dialogue: 0,0:19:34.42,0:19:35.35,main,Anya,0000,0000,0000,,Papai!
+Dialogue: 0,0:19:36.32,0:19:38.42,main,Anya,0000,0000,0000,,Papai!
+Dialogue: 0,0:19:38.42,0:19:40.28,main,Loid,0000,0000,0000,,O que você... Digo...
+Dialogue: 0,0:19:40.28,0:19:42.53,main,Loid,0000,0000,0000,,Por que você está\Ndo lado de fora da casa?
+Dialogue: 0,0:19:42.53,0:19:45.73,main,Loid,0000,0000,0000,,Bem, eu fui ali fazer compras,
+Dialogue: 0,0:19:45.73,0:19:47.21,main,Loid,0000,0000,0000,,mas parece que fecharam.
+Dialogue: 0,0:19:47.21,0:19:49.30,italics,Anya,0000,0000,0000,,O papai é um grande mentiroso...
+Dialogue: 0,0:19:49.30,0:19:52.05,main,Anya,0000,0000,0000,,Eu estava brincando de\Npega-pega com uns tios.
+Dialogue: 0,0:19:52.05,0:19:54.19,main,Loid,0000,0000,0000,,Entendi. Foi divertido?
+Dialogue: 0,0:19:55.20,0:19:56.95,main,Anya,0000,0000,0000,,Deu um pouco de medo.
+Dialogue: 0,0:19:57.74,0:19:59.79,main,Anya,0000,0000,0000,,Quero ir para casa.
+Dialogue: 0,0:20:00.41,0:20:02.48,main,Anya,0000,0000,0000,,Para nossa casa, papai.
+Dialogue: 0,0:20:03.27,0:20:04.88,main,Loid,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:20:05.82,0:20:08.96,main,Anya,0000,0000,0000,,Se você me abandonar,\Neu vou chorar.
+Dialogue: 0,0:20:08.96,0:20:11.85,flashback italics,Franky,0000,0000,0000,,Ela foi adotada quatro vezes\Ne sempre foi devolvida.
+Dialogue: 0,0:20:12.22,0:20:15.79,italics,Loid,0000,0000,0000,,Anya Williams... Anya Levski...
+Dialogue: 0,0:20:15.79,0:20:17.24,italics,Loid,0000,0000,0000,,Anya Roche.
+Dialogue: 0,0:20:17.64,0:20:18.73,main,Loid,0000,0000,0000,,Entendi.
+Dialogue: 0,0:20:19.53,0:20:20.92,main,Loid,0000,0000,0000,,Bem, então vamos para casa.
+Dialogue: 0,0:20:25.46,0:20:28.01,main,Loid,0000,0000,0000,,Mas aquele apartamento é perigoso\Ndemais, então vamos nos mudar.
+Dialogue: 0,0:20:28.01,0:20:29.82,main,Loid,0000,0000,0000,,Achei uma cobra venenosa lá outro dia...
+Dialogue: 0,0:20:29.82,0:20:30.74,main,Anya,0000,0000,0000,,Não gosto de cobras.
+Dialogue: 0,0:20:31.05,0:20:33.58,italics,Anya,0000,0000,0000,,O papai é um grande mentiroso...
+Dialogue: 0,0:20:33.58,0:20:35.99,italics,Anya,0000,0000,0000,,Mas é um mentiroso tão legal!
+Dialogue: 0,0:20:35.99,0:20:37.76,main,Anya,0000,0000,0000,,Quero morar num castelo.
+Dialogue: 0,0:20:37.76,0:20:39.00,main,Loid,0000,0000,0000,,Veremos se tem para alugar...
+Dialogue: 0,0:20:39.73,0:20:41.78,main,Loid,0000,0000,0000,,Quando chegarmos na nova\Ncasa, você vai estudar.
+Dialogue: 0,0:20:41.78,0:20:42.46,main,Anya,0000,0000,0000,,Aff!
+Dialogue: 0,0:20:42.46,0:20:44.85,main,Loid,0000,0000,0000,,Desta vez, você vai\Ndecorar todas as respostas.
+Dialogue: 0,0:20:44.85,0:20:45.82,main,Loid,0000,0000,0000,,Vai ser fácil.
+Dialogue: 0,0:20:56.51,0:20:58.95,main,Invigilator,0000,0000,0000,,Certo, podem começar!
+Dialogue: 0,0:21:01.04,0:21:02.64,italics,Loid,0000,0000,0000,,Conto com você, Anya!
+Dialogue: 0,0:21:04.00,0:21:04.71,italics,Loid,0000,0000,0000,,Você consegue!
+Dialogue: 0,0:21:06.31,0:21:07.68,italics,Child B,0000,0000,0000,,É difícil demais!
+Dialogue: 0,0:21:07.08,0:21:09.11,italicstop,Child C,0000,0000,0000,,Não sei nenhuma resposta!
+Dialogue: 0,0:21:09.11,0:21:11.20,italics,Child D,0000,0000,0000,,Minha mãe mandou eu escolher...
+Dialogue: 0,0:21:11.20,0:21:13.00,italics,Child E,0000,0000,0000,,Mamãe...
+Dialogue: 0,0:21:24.62,0:21:26.47,main,Loid,0000,0000,0000,,K-212...
+Dialogue: 0,0:21:26.47,0:21:28.21,main,Loid,0000,0000,0000,,K-212...
+Dialogue: 0,0:21:31.02,0:21:33.01,main,Loid,0000,0000,0000,,Achou! Você passou!
+Dialogue: 0,0:21:33.26,0:21:34.51,main,Loid,0000,0000,0000,,Você conseguiu!
+Dialogue: 0,0:21:34.51,0:21:35.70,main,Anya,0000,0000,0000,,A Anya foi bem?
+Dialogue: 0,0:21:35.70,0:21:37.02,main,Loid,0000,0000,0000,,Foi ótima!
+Dialogue: 0,0:21:37.02,0:21:37.65,main,Loid,0000,0000,0000,,Você...
+Dialogue: 0,0:21:38.69,0:21:39.52,main,Anya,0000,0000,0000,,Papai!
+Dialogue: 0,0:21:40.13,0:21:43.04,italics,Loid,0000,0000,0000,,Eu relaxei por um segundo e toda a\Nexaustão acumulada veio de uma vez...
+Dialogue: 0,0:21:41.11,0:21:44.04,top,Anya,0000,0000,0000,,Papai! Não me deixe!
+Dialogue: 0,0:21:44.04,0:21:46.99,italics,Loid,0000,0000,0000,,Eu relaxei?
+Dialogue: 0,0:21:44.04,0:21:47.38,top,Anya,0000,0000,0000,,Papai, assim eu vou chorar!
+Dialogue: 0,0:21:47.38,0:21:51.90,top,Anya,0000,0000,0000,,Eu juro que vou ser uma boa\Nmenina! Volte para mim!
+Dialogue: 0,0:21:47.99,0:21:49.93,italics,Loid,0000,0000,0000,,O que está acontecendo comigo?
+Dialogue: 0,0:22:50.21,0:22:52.00,main,Anya,0000,0000,0000,,O papai morreu...
+Dialogue: 0,0:22:52.66,0:22:53.99,main,Mailman,0000,0000,0000,,Correios!
+Dialogue: 0,0:22:56.30,0:22:57.46,main,Mailman,0000,0000,0000,,É a residência dos Forger?
+Dialogue: 0,0:22:57.77,0:22:59.39,main,Anya,0000,0000,0000,,Sou Anya Forger.
+Dialogue: 0,0:22:59.39,0:23:02.20,main,Mailman,0000,0000,0000,,Pode entregar pro papai\Nou pra mamãe?
+Dialogue: 0,0:23:02.20,0:23:03.60,main,Anya,0000,0000,0000,,A mamãe não existe.
+Dialogue: 0,0:23:03.60,0:23:05.74,main,Mailman,0000,0000,0000,,É mesmo? Sinto muito...
+Dialogue: 0,0:23:05.74,0:23:08.87,main,Anya,0000,0000,0000,,Papai, o carteiro chegou!
+Dialogue: 0,0:23:27.85,0:23:30.82,main,Loid,0000,0000,0000,,O que você pensa que está\Nfazendo? Quer me matar?!
+Dialogue: 0,0:23:31.20,0:23:33.80,italics,Loid,0000,0000,0000,,Acabei dormindo\Nna frente de alguém...
+Dialogue: 0,0:23:33.80,0:23:36.34,italics,Loid,0000,0000,0000,,Inaceitável!\NTenho que me controlar!
+Dialogue: 0,0:23:36.34,0:23:37.33,main,Anya,0000,0000,0000,,Correspondência!
+Dialogue: 0,0:23:39.77,0:23:42.03,main,Loid,0000,0000,0000,,É uma carta do Colégio Éden.
+Dialogue: 0,0:23:42.90,0:23:44.47,main,Anya,0000,0000,0000,,O que foi, papai?
+Dialogue: 0,0:23:44.47,0:23:47.36,main,Loid,0000,0000,0000,,"A segunda fase do processo de admissão\Né uma entrevista com a família."
+Dialogue: 0,0:23:47.36,0:23:50.61,main,Loid,0000,0000,0000,,"O candidato deve vir com o pai e a mãe."
+Dialogue: 0,0:23:50.61,0:23:52.87,main,Loid,0000,0000,0000,,"Nenhuma exceção é aceita."
+Dialogue: 0,0:23:53.95,0:23:56.07,main,Anya,0000,0000,0000,,Mas não tem mamãe...
+Dialogue: 0,0:24:06.80,0:24:09.87,Sign 2,Sign,0000,0000,0000,,{\fs17}2ª MISSÃO\N{\fs21}Garantir uma esposa
